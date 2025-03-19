@@ -22,5 +22,5 @@ int main(){
   
   printf("O jogo acabou!\n");
   
-  return );
+  return 0;
 }
